@@ -10,7 +10,6 @@ struct AddNote: View {
     @State private var showAlert: Bool = false
     @State private var alertText: String = ""
 
-    // MARK: 
 
     var body: some View {
         VStack {
