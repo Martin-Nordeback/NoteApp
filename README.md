@@ -12,6 +12,8 @@ This application allows you to create, read, update, and delete notes.
 - Dark and Light Mode support
 - Data persistence using CoreData
 
+## Screenshots
+
 <img src="https://github.com/Martin-Nordeback/NoteApp/blob/main/NoteApp/Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-04-25%20at%2008.08.29.png?raw=true" alt="Calculator" style="width: 30%; height: auto;"> <img src="https://github.com/Martin-Nordeback/NoteApp/blob/main/NoteApp/Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-04-25%20at%2008.08.31.png?raw=true" alt="Calculator" style="width: 30%; height: auto;"> 
 <img src="https://github.com/Martin-Nordeback/NoteApp/blob/main/NoteApp/Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-04-25%20at%2008.09.08.png?raw=true" alt="Calculator" style="width: 30%; height: auto;"> 
 <img src="https://github.com/Martin-Nordeback/NoteApp/blob/main/NoteApp/Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-04-25%20at%2008.09.15.png?raw=true" alt="Calculator" style="width: 30%; height: auto;"> <img src="https://github.com/Martin-Nordeback/NoteApp/blob/main/NoteApp/Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-04-25%20at%2008.09.40.png?raw=true" alt="Calculator" style="width: 30%; height: auto;"> 
